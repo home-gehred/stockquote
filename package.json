@@ -1,0 +1,39 @@
+{
+  "name": "stockquote",
+  "version": "1.0.0",
+  "description": "Program to get Max interested in stock market.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp unitTest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/home-gehred/stockquote.git"
+  },
+  "keywords": [
+    "stock"
+  ],
+  "author": "Bob Gehred",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/home-gehred/stockquote/issues"
+  },
+  "homepage": "https://github.com/home-gehred/stockquote#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "gulp": "^3.9.0",
+    "gulp-istanbul": "^0.10.0",
+    "gulp-jscs": "^2.0.0",
+    "gulp-jscs-stylish": "^1.1.1",
+    "gulp-jshint": "^1.11.2",
+    "gulp-mocha": "^2.1.3",
+    "gulp-util": "^3.0.6",
+    "istanbul": "^0.3.17",
+    "jscs": "^2.0.0",
+    "jshint": "^2.8.0",
+    "jshint-stylish": "^2.0.1",
+    "proxyquire": "^1.6.0",
+    "sinon": "^1.15.4",
+    "yargs": "^3.17.1"
+  }
+}

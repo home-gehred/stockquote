@@ -1,0 +1,20 @@
+{
+    "curly": true,
+    "eqeqeq": true,
+    "freeze": true,
+    "maxdepth": 4,
+    "maxcomplexity": 10,
+    "maxerr": 50,
+    "maxparams": 10,
+    "maxstatements": 50,
+    "nonbsp": true,
+    "nonew": true,
+    "shadow": "outer",
+    "undef": true,
+    "unused": true,
+    "mocha": true,
+    "node": true,
+    "predef": [
+      "MY_GLOBAL"
+    ]
+}
